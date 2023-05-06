@@ -8,6 +8,8 @@ packages = [{include = "weather_forecast_data_app"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+streamlit = "^1.22.0"
+plotly = "^5.14.1"
 
 
 [build-system]
